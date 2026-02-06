@@ -76,7 +76,7 @@ def save_history(history):
 #============================
 
 def get_riko_response_no_tool(messages):
-    system_instruction_text = SYSTEM_PROMPT
+    system_instruction_text = ""
     chat_history = []
 
     for m in messages:
