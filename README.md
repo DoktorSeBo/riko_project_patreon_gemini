@@ -33,7 +33,6 @@ Ensure you have the original Riko project files. If you haven't set up the base 
 
 👉 <a href="https://www.patreon.com/posts/project-riko-v1-134743975" target="_blank">Rayen's Setup Guide</a>
 
-
 ---
 
 ## 🛠 Installation
@@ -51,9 +50,7 @@ Locate the original `llm_scr.py` in your main Riko project folder.
 
 Replace the old file with the new one.
 
-
-### 4. Replace the Logic File
-Download the `llm_scr.py` file from this repository and use it to replace the original `llm_scr.py` file inside your main project folder.
+---
 
 ## 🎯 Finishing Steps
 
